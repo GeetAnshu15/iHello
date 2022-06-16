@@ -5,6 +5,8 @@
  * of files (php framework or image collection) as an archive to save time.
  * As of version 0.1.0 it also supports creating archives.
  *
+ * THIS FILE WILL BE USED ONLY AT THE TIME OF DEPLOYMENT OF THE PROJECT ON HOST SERVER
+ *
  * @author  Andreas Tasch, at[tec], attec.at
  * @license GNU GPL v3
  * @package attec.toolbox
