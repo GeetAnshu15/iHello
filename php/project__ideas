@@ -1,0 +1,29 @@
+Project ideas using Java and JDBC Concepts
+
+1. Student Attendance Manangement System
+	FR : HTML, CSS, JSP(OPTIONAL)
+	BE : Java Servlet
+	
+2. Airline/Bus/Train Ticket Booking System
+	FR : HTML, CSS or JSP
+	BE : Java Servlet
+	
+3. Course Management System
+	FR : HTML, CSS or JSP
+	BE : Java Servlet
+	
+	
+
+	// TO BE TAKEN UNDER CONSIDERATION
+	
+	Project Title	-	Network Packet Sniffer
+	Project Description		-		Analyze individual network packets that are channeling in a network	
+		* Languages to be used: Java (Swing)
+	
+	Project Title	-	Smart City Project
+	Project Description		-		A virtual guide for the required needs of the city.
+		* Languages to be used: Java, JSP
+		
+	Project Title	-	VPN
+	Project Description		-		Build a custom virtual private network
+		* Languages to be used: Java
